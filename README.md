@@ -7,18 +7,17 @@
 
 
 
-<h1 align="center">INSTA H4CK3R </h1>
+<h1 align="center">instagram hacking </h1>
 <p align="center">
       New Tool for Instagram Hacking. Bruteforce Method
 </p>
 
-## About INSTA H4CK3R :
+## About Instagram hacking:
 
-Insta Hacker is a python based Script. You can use this script for hacking Instagram (bruteforce). 
+Insta Hacker is a python based Script. You can use this script for instagram hack
 
-![](https://github.com/Stephin-Franklin/Hack-Insta/blob/master/Screenshot_20191207-024415.png)
 
-### INSTA H4CK3R is available for
+### INSTAGRAM hackingis available for
 
 • Termux
 
@@ -38,7 +37,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/Stephin-Franklin/Hack-Insta
+$ git clone https://github..........
 ```
 ```
 $ ls
@@ -71,8 +70,7 @@ $ python2 hackinsta.py
 ```
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/AnonymousTim3
-
+Cupid Ram
 
 ### Warning
 
